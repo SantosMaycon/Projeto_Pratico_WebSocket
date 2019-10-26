@@ -1,0 +1,26 @@
+{
+  "name": "projeto_pratico_websocket",
+  "version": "1.0.0",
+  "description": "Criado para ser apresentado na materia de Sistemas Distribuidos ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantosMaycon/Projeto_Pratico_WebSocket.git"
+  },
+  "author": "Maycon Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantosMaycon/Projeto_Pratico_WebSocket/issues"
+  },
+  "homepage": "https://github.com/SantosMaycon/Projeto_Pratico_WebSocket#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-validator": "^3.2.0"
+  }
+}
